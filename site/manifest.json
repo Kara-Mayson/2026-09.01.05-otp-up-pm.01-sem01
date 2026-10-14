@@ -1,0 +1,215 @@
+{
+  "title": "УП ПМ.01 · 09.01.05",
+  "files": [
+    {
+      "path": "areas.html",
+      "bytes": 33649,
+      "sha256": "30998972ab6dd28e7c94372b208378c2d9e4e4616890d26f29e736e74d5a61c4"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 206,
+      "sha256": "a858bf2fe727230d8ce9ad583c22bd19c344c57d28c3a13631130948a6eb17a7"
+    },
+    {
+      "path": "assets/style.css",
+      "bytes": 6536,
+      "sha256": "c9a2fbcecb6cdad94b7bb7651329b4b300ca835ee27ac5334589ec2b04aef3d8"
+    },
+    {
+      "path": "downloads/assignment.pdf",
+      "bytes": 259255,
+      "sha256": "9cce7950655b13a4632b351761b45c86d47b4da23a72b3e7cad248772b25f21a"
+    },
+    {
+      "path": "downloads/demo-result.zip",
+      "bytes": 2405,
+      "sha256": "ad3199486d0183e0dc36cdf6dce13311607c970c3e6dbb12f6ad3aec9d9abc45"
+    },
+    {
+      "path": "downloads/demo-tickets.json",
+      "bytes": 8518,
+      "sha256": "a31bde9476e47ca1c0c79038860c028f26b3b0956f75fd4f0f078bd9fce94541"
+    },
+    {
+      "path": "downloads/guide.pdf",
+      "bytes": 240742,
+      "sha256": "1c8e3a5438535fedd6514e2985c00b3c0473ed7bc4fe7ee7f435923221e41641"
+    },
+    {
+      "path": "downloads/report-template.docx",
+      "bytes": 38738,
+      "sha256": "c5d4721c6f3e7bf2ae937450a9506cd05d25252c143b093bac8fa0e318189a48"
+    },
+    {
+      "path": "downloads/report-template.md",
+      "bytes": 10728,
+      "sha256": "28bfeaea0445da6b4a72004fa7d009e4f846a756f567ebb6a276de9c6f1a3df6"
+    },
+    {
+      "path": "downloads/support-desk.zip",
+      "bytes": 2517,
+      "sha256": "1dd33dcc851849d0bd4d71d1dd52fda3a004bbc413a4c8ba1cb0dcfc59442f31"
+    },
+    {
+      "path": "downloads/variant-01.json",
+      "bytes": 9728,
+      "sha256": "00f460ca9f72657f032d9f8acc057d05f792bccaed678f9cc5cdadc07e693f7b"
+    },
+    {
+      "path": "downloads/variant-02.json",
+      "bytes": 9821,
+      "sha256": "2a4bcd3f6796a681198da5f9b7cbf90199a28dbb808360d745f51d60b82d4418"
+    },
+    {
+      "path": "downloads/variant-03.json",
+      "bytes": 9907,
+      "sha256": "04c788ea52bf83dcdc7e6803c62e770b18e7f0ca8bf44f63c1c8ef348e3ff334"
+    },
+    {
+      "path": "downloads/variant-04.json",
+      "bytes": 9801,
+      "sha256": "8887e185e21ed27144bcc0d2a98cae7aadfe2d2abba06099dc572d03e0416960"
+    },
+    {
+      "path": "downloads/variant-05.json",
+      "bytes": 9793,
+      "sha256": "ba0405c4a4b6bababa5fd439bda0b88d52d89709ee7326e1f671cc0f76b15a06"
+    },
+    {
+      "path": "downloads/variant-06.json",
+      "bytes": 9980,
+      "sha256": "2f59f11553cf947009adbe085ca8b8264746ae22a539f206ee8b775a443fccdb"
+    },
+    {
+      "path": "downloads/variant-07.json",
+      "bytes": 9904,
+      "sha256": "dc11bdb9044cd1513f36375f531e87d62cb9321f460fd22de8b5ee3fb91b4c22"
+    },
+    {
+      "path": "downloads/variant-08.json",
+      "bytes": 9787,
+      "sha256": "f4c612449fd510d378696ccaf76ea8ca164b0ed02cac10009563e65f0c78cbe3"
+    },
+    {
+      "path": "downloads/variant-09.json",
+      "bytes": 9807,
+      "sha256": "0096f778efe12053082d76cb20cd3a367346202752615952c72275dcad3887be"
+    },
+    {
+      "path": "downloads/variant-10.json",
+      "bytes": 9908,
+      "sha256": "c82e803561bbad9fd3e8955134bb74fe54be9ae4ae69bfee8c28a50ce2d8824c"
+    },
+    {
+      "path": "downloads/variant-11.json",
+      "bytes": 9899,
+      "sha256": "a1979c6fcab9a41c6857876acf2bbb64a8222171096854730831b0ba53bf9f31"
+    },
+    {
+      "path": "downloads/variant-12.json",
+      "bytes": 9908,
+      "sha256": "5f52cd0dbc9fc56bf3c93524e74e6bd6974b1ce49d10a1c07d1ebc8b515c8fab"
+    },
+    {
+      "path": "downloads/variant-13.json",
+      "bytes": 9892,
+      "sha256": "f5e19a4ab502017dfc19f89d11aba5905f8f5b75f55f1019234e475d4defa03c"
+    },
+    {
+      "path": "downloads/variant-14.json",
+      "bytes": 9866,
+      "sha256": "0f1ca4735182e2912be480ba2272de68724c6e83793a7cd5e4ed7a989d81af9e"
+    },
+    {
+      "path": "downloads/variant-15.json",
+      "bytes": 9615,
+      "sha256": "d05a9d6af329873744d99cf7de2b563336b40e9fbaccea24b98f617a247a422d"
+    },
+    {
+      "path": "downloads/variant-16.json",
+      "bytes": 9948,
+      "sha256": "0700b1f73b90c478a271265bc88615395e72d58c19c470efb15900d15c95fd15"
+    },
+    {
+      "path": "downloads/variant-17.json",
+      "bytes": 9839,
+      "sha256": "8f78621dfcf5016623d3ce6a41852aa87696720dfffe2c210b8b75b68137bb37"
+    },
+    {
+      "path": "downloads/variant-18.json",
+      "bytes": 9772,
+      "sha256": "0e496bbc3805a675eb7d7a14ad9a695331a1a61df48d11d9ef6d22f71a6d48a1"
+    },
+    {
+      "path": "downloads/variant-19.json",
+      "bytes": 9789,
+      "sha256": "2505dcfcdd9c1d6855f45378825868aa73be6b3ba8066ca00e1740852a390ac8"
+    },
+    {
+      "path": "downloads/variant-20.json",
+      "bytes": 9724,
+      "sha256": "24cbd622de53221806f0004e20b5a39ee5c6ee5f88002790fabe54fc9a05aeb6"
+    },
+    {
+      "path": "downloads/variant-21.json",
+      "bytes": 10040,
+      "sha256": "2f083bce259e754fa2520ca5aaa568a2d045faf376d861000cdcd059aba4dc71"
+    },
+    {
+      "path": "downloads/variant-22.json",
+      "bytes": 9810,
+      "sha256": "9e95ea7fab7a81b1f002548ee91fbcbd6f775786b3cbe95e8feb6ea895f95bb4"
+    },
+    {
+      "path": "downloads/variant-23.json",
+      "bytes": 9645,
+      "sha256": "1da6ac09bdd80a9694d8bc4b66c358ed8650b2324a35be7f271b7cec3179296f"
+    },
+    {
+      "path": "downloads/variant-24.json",
+      "bytes": 9830,
+      "sha256": "ad0aaf4ed0fd96134bf2e520bdede7a606b1698847f0f55ccacb7d3941433754"
+    },
+    {
+      "path": "downloads/variant-25.json",
+      "bytes": 9663,
+      "sha256": "fbedf1d0a67e6fecac508e13dea0203c3962ced0d524dcf8820b8ff7cfedd7ef"
+    },
+    {
+      "path": "downloads/variant-26.json",
+      "bytes": 9802,
+      "sha256": "3667b37bedfe037d6ae7d3a8e6408851cf529c79b8cf4e6089268c711546c11c"
+    },
+    {
+      "path": "downloads/variant-27.json",
+      "bytes": 9888,
+      "sha256": "005d182e4346219cb79b7c33faa95c7349d10067247165375a38fc145ad2297b"
+    },
+    {
+      "path": "downloads/variant-28.json",
+      "bytes": 9746,
+      "sha256": "1a8908162ba027a94762a114586c33a1930891fb84e0543c62ad48f465ef39b7"
+    },
+    {
+      "path": "downloads/variant-29.json",
+      "bytes": 9746,
+      "sha256": "15c7b00eba743082d273060c75efedf729280b445ade1cfad6578719a557b39f"
+    },
+    {
+      "path": "downloads/variant-30.json",
+      "bytes": 10147,
+      "sha256": "80b07ef7a78103ac2b968936a4faa9d8e519e021c26e39a56b8c57624a978ba9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2765,
+      "sha256": "a2abd9bdfc35cf04ddeb121c41ace5ed0491fd7d80ebfbeba1c1c8d32b64b69f"
+    },
+    {
+      "path": "lessons.html",
+      "bytes": 1722,
+      "sha256": "059e383a905e5b2944005032df25050f642f5e3ae0d90339447247791df214a6"
+    }
+  ]
+}
